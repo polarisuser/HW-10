@@ -57,5 +57,3 @@ console.log(beshBarmak.serve());
 console.log(beshBarmak.setServed(20));
 console.log(beshBarmak.showTotalServed());
 
-
-alert("Переходите в консоль!");
